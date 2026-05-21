@@ -1,7 +1,7 @@
 # NullLabTests
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NullLabTests/NullLabTests/main/logo.png" alt="NullLabTests Logo" width="280" />
+  <img src="https://raw.githubusercontent.com/NullLabTests/NullLabTests/main/logo.png" alt="NullLabTests Primary Logo" width="320" />
 </div>
 
 **Nullipotent Quantum AI Labs**  
@@ -26,9 +26,9 @@ Always in continuous learning mode.
 Open to serious quantum-AI / self-improving-agent collaborations.
 
 ---
-*Infosec • AI/ML • GenAI • Quantum • XR • Nullipotent Labs*
-
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NullLabTests/NullLabTests/main/logo2.png" alt="NullLabTests Logo" width="280" />
+  <img src="https://raw.githubusercontent.com/NullLabTests/NullLabTests/main/logo2.png" alt="NullLabTests Secondary Logo" width="260" />
 </div>
+
+*Infosec • AI/ML • GenAI • Quantum • XR • Nullipotent Labs*
