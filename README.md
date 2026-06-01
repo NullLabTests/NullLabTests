@@ -11,7 +11,7 @@
 
 **Building the next layer of intelligence** at the intersection of:
 
-- **Quantum Reinforcement Learning** on real NISQ hardware (see [QRL_quant-ph](https://github.com/NullLabTests/QRL_quant-ph))
+- **Quantum Reinforcement Learning** using agent driven workloads on real NISQ hardware (see [QRL_quant-ph](https://github.com/NullLabTests/QRL_quant-ph))
 - **Self-improving autonomous agents** that evolve their own code
 - **Advanced AI research** (manifold diffusion, disinformation analysis, GenAI systems)
 - **Infosec + XR/AR/VR** + theoretical computer science
