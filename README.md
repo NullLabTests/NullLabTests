@@ -14,7 +14,7 @@
 - **Quantum Reinforcement Learning** using agent driven workloads on real NISQ hardware (see [QRL_quant-ph](https://github.com/NullLabTests/QRL_quant-ph))
 - **Self-improving autonomous agents** that evolve their own code
 - **Advanced AI research** (manifold diffusion, disinformation analysis, GenAI systems, EEG BCI inputs)
-- **Infosec + XR/AR/VR** + theoretical computer science with Godot (see [Godoot](https://github.com/godotengine/godot))
+- **Infosec + XR/AR/VR** + theoretical computer science with Godot (see [Godot](https://github.com/godotengine/godot))
 
 **Current obsessions:**
 • Quantum-natural policy gradients & learned gadgets for AGI-scale decision making  
